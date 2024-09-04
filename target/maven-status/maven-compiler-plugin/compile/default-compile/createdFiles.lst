@@ -1,0 +1,3 @@
+com/example/player/model/PlayerRowMapper.class
+com/example/player/service/PlayerH2Service.class
+com/example/player/repository/PlayerRepository.class
